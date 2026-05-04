@@ -1,0 +1,33 @@
+---
+experience_id: {{EXPERIENCE_ID}}
+title: {{EXPERIENCE_TITLE}}
+company: {{COMPANY_NAME}}
+role: {{ROLE_TITLE}}
+duration: {{DURATION}}
+experience_type: {{EXPERIENCE_TYPE}}
+target_position_tags: [{{TAG_1}}, {{TAG_2}}, {{TAG_3}}]
+keywords: [{{KEYWORD_1}}, {{KEYWORD_2}}, {{KEYWORD_3}}, {{KEYWORD_4}}, {{KEYWORD_5}}]
+highlight_hooks:
+  - {{HIGHLIGHT_1}}
+  - {{HIGHLIGHT_2}}
+  - {{HIGHLIGHT_3}}
+key_metrics:
+  - {{METRIC_1}}
+  - {{METRIC_2}}
+generated_at: {{GENERATED_AT}}
+skill_version: "1.0"
+---
+
+# {{EXPERIENCE_TITLE}} — 索引
+
+**一句话摘要**：{{ONE_LINE_SUMMARY}}
+
+**核心亮点**：{{CORE_HIGHLIGHTS}}
+
+**适合应聘的岗位方向**：{{SUITABLE_POSITIONS}}
+
+---
+
+> 本文件为经历炼金术 v1.0 生成的元数据索引。
+> 供 JD 解码器（v2.0）做经历-岗位匹配时调用。
+> 请勿手动修改 YAML frontmatter 字段名，保持接口稳定。

@@ -1,0 +1,127 @@
+# 完整经历档案 — {{EXPERIENCE_TITLE}}
+
+> 本文件是该段经历的完整结构化记录，供个人回顾、面试深度备战和未来模块调用使用。
+> 生成时间：{{GENERATED_AT}}
+
+---
+
+## 基本信息
+
+| 字段 | 内容 |
+|------|------|
+| 公司/组织 | {{COMPANY_NAME}} |
+| 角色 | {{ROLE_TITLE}} |
+| 时间 | {{DURATION}} |
+| 团队规模 | {{TEAM_SIZE}} |
+| 经历类型 | {{EXPERIENCE_TYPE}} |（实习/项目/学生工作/竞赛/科研）
+
+---
+
+## S — 背景（Situation）
+
+{{SITUATION_FULL}}
+
+---
+
+## T — 任务（Task）
+
+**团队目标**：{{TEAM_GOAL}}
+
+**我的具体职责**：{{MY_SPECIFIC_TASK}}
+
+**为什么是我做**：{{WHY_ME}}
+
+**成功标准**：{{SUCCESS_CRITERIA}}
+
+---
+
+## A — 行动（Action）
+
+### 关键动作 1：{{ACTION_TITLE_1}}
+{{ACTION_DETAIL_1}}
+
+### 关键动作 2：{{ACTION_TITLE_2}}
+{{ACTION_DETAIL_2}}
+
+### 关键动作 3：{{ACTION_TITLE_3}}
+{{ACTION_DETAIL_3}}
+
+[### 关键动作 4：{{ACTION_TITLE_4}}
+{{ACTION_DETAIL_4}}]
+
+**关键决策点**：{{KEY_DECISION_POINT}}
+
+**遇到的最大阻力**：{{MAIN_OBSTACLE}}
+
+---
+
+## R — 结果（Result）
+
+### 量化成果
+{{QUANTITATIVE_RESULTS}}
+
+### 定性成果
+{{QUALITATIVE_RESULTS}}
+
+### 外部认可
+{{EXTERNAL_RECOGNITION}}
+
+---
+
+## 反思（Reflection）
+
+**做得最好的地方**：{{BEST_DECISION}}
+
+**如果重做会改变的地方**：{{WOULD_CHANGE}}
+
+**最大的意外或收获**：{{BIGGEST_SURPRISE}}
+
+**对行业/职能的新认识**：{{NEW_INSIGHT}}
+
+---
+
+## 亮点钩子（面试中最能抓住注意力的 3-5 个点）
+
+> 这些是面试官最可能眼前一亮的地方，也是你主动提起时会引出追问的素材。
+
+1. {{HOOK_1}}
+2. {{HOOK_2}}
+3. {{HOOK_3}}
+[4. {{HOOK_4}}]
+[5. {{HOOK_5}}]
+
+---
+
+## 潜在追问点（面试官可能从哪些角度深挖）
+
+> 为 v3.0 模拟面试官模块预留接口。每个追问点附应对思路。
+
+### 追问 1：{{FOLLOWUP_QUESTION_1}}
+**应对思路**：{{FOLLOWUP_ANSWER_1}}
+
+### 追问 2：{{FOLLOWUP_QUESTION_2}}
+**应对思路**：{{FOLLOWUP_ANSWER_2}}
+
+### 追问 3：{{FOLLOWUP_QUESTION_3}}
+**应对思路**：{{FOLLOWUP_ANSWER_3}}
+
+### 追问 4：{{FOLLOWUP_QUESTION_4}}
+**应对思路**：{{FOLLOWUP_ANSWER_4}}
+
+### 追问 5：{{FOLLOWUP_QUESTION_5}}
+**应对思路**：{{FOLLOWUP_ANSWER_5}}
+
+---
+
+## 延展故事线（这段经历可以引申讲到的其他话题）
+
+> 面试中如果聊开了，这些是可以自然延展的方向。
+
+- **行业洞察**：{{INDUSTRY_INSIGHT_THREAD}}
+- **方法论**：{{METHODOLOGY_THREAD}}
+- **个人成长**：{{PERSONAL_GROWTH_THREAD}}
+- **关联经历**：{{RELATED_EXPERIENCE_THREAD}}
+
+---
+
+*本档案由经历炼金术 v1.0 生成 | 求职助手系列工具*

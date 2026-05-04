@@ -1,0 +1,16 @@
+{{COMPANY_NAME}} | {{ROLE_TITLE}} | {{DURATION}}
+
+• {{VERB_1}}{{ACTION_SUMMARY_1}}，{{RESULT_WITH_DATA_1}}
+• {{VERB_2}}{{ACTION_SUMMARY_2}}，{{RESULT_WITH_DATA_2}}
+• {{VERB_3}}{{ACTION_SUMMARY_3}}，{{RESULT_WITH_DATA_3}}
+[• {{VERB_4}}{{ACTION_SUMMARY_4}}，{{RESULT_WITH_DATA_4}}]
+[• {{VERB_5}}{{ACTION_SUMMARY_5}}，{{RESULT_WITH_DATA_5}}]
+
+---
+生成说明：
+- 每条 bullet 以动词开头，不用主语"我"
+- 每条不超过 60 个汉字（约一行简历）
+- 至少 1 条含量化数据（数字/百分比/倍数）
+- 方括号 [] 内为可选条，根据经历丰富程度决定是否保留
+- 动词参考：主导/搭建/优化/驱动/推动/落地/设计/重构/迭代/协调
+- 如无量化数据，用 [待补充：XX 方向的数据] 占位
