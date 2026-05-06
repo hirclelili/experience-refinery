@@ -1,0 +1,93 @@
+# 经历档案模板 — {{EXPERIENCE_TITLE}}
+
+> 生成时间：{{GENERATED_AT}} | 简历经历助手 v1.2 | 模式：{{MODE}}
+
+---
+
+# {{EXPERIENCE_TITLE}} 经历档案
+
+---
+
+## 第一部分：简历版
+
+{{COMPANY_NAME}} | {{ROLE_TITLE}} | {{DURATION}}
+
+• {{BULLET_1}}
+• {{BULLET_2}}
+• {{BULLET_3}}
+[• {{BULLET_4}}]
+[• {{BULLET_5}}]
+
+[★ AI 建议补充（请确认后保留）：• {{SUGGESTED_BULLET}}]
+
+---
+
+## 第二部分：完整经历故事
+
+> 第一人称散文叙述，可阅读的完整叙事，不是口述脚本。目标 800-1200 字。
+
+{{FULL_STORY_NARRATIVE}}
+
+---
+> [增强模式下在此处统一提示]
+> 带 ★ 的内容是基于你的岗位和行业推断补充的，请逐条核实是否符合实际，确认后删去标注即可使用。
+
+---
+
+## 第三部分：面试工具包
+
+### 30 秒开场
+
+{{THIRTY_SEC_OPENER}}
+
+### 核心亮点（面试中可主动抛出）
+
+1. {{HIGHLIGHT_1}}
+2. {{HIGHLIGHT_2}}
+3. {{HIGHLIGHT_3}}
+
+### 预测追问与应对
+
+**追问 1**：{{FOLLOWUP_Q_1}}
+应对：{{FOLLOWUP_A_1}}
+
+**追问 2**：{{FOLLOWUP_Q_2}}
+应对：{{FOLLOWUP_A_2}}
+
+**追问 3**：{{FOLLOWUP_Q_3}}
+应对：{{FOLLOWUP_A_3}}
+
+**追问 4**：{{FOLLOWUP_Q_4}}
+应对：{{FOLLOWUP_A_4}}
+
+**追问 5**：{{FOLLOWUP_Q_5}}
+应对：{{FOLLOWUP_A_5}}
+
+### 诱饵金句
+
+> 说出后容易引导面试官顺着你的方向追问，帮你掌握对话节奏。
+
+- {{HOOK_LINE_1}}
+- {{HOOK_LINE_2}}
+[- {{HOOK_LINE_3}}]
+
+---
+
+## 附录：元数据
+
+> 供 JD 解码器（v2.0）调用，字段名请勿修改。
+
+```
+experience_id: {{EXPERIENCE_ID}}
+title: {{EXPERIENCE_TITLE}}
+company: {{COMPANY_NAME}}
+role: {{ROLE_TITLE}}
+duration: {{DURATION}}
+experience_type: {{EXPERIENCE_TYPE}}
+target_position_tags: [{{TAG_1}}, {{TAG_2}}, {{TAG_3}}]
+keywords: [{{KEYWORD_1}}, {{KEYWORD_2}}, {{KEYWORD_3}}]
+key_metrics: [{{METRIC_1}}, {{METRIC_2}}]
+generated_at: {{GENERATED_AT}}
+skill_version: "1.2"
+enhancement_mode: {{MODE}}
+```
