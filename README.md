@@ -206,7 +206,9 @@ ls ~/.claude/skills/resume-experience-coach/SKILL.md
 
 ## 反馈与贡献
 
-遇到问题或有改进建议，请提 [GitHub Issue](https://github.com/hirclelili/experience-refinery/issues)。
+遇到问题或有改进建议，请加群交流反馈。
+<img width="1020" height="1536" alt="d8b86aedeacf266b2d59e24420e4af90" src="https://github.com/user-attachments/assets/47a030c1-f369-4463-9e55-eb32e133569c" />
+
 
 特别欢迎：
 - 你用这个 Skill 生成的真实输出（可脱敏后分享）
