@@ -1,4 +1,4 @@
-# BACKLOG — 经历炼金术
+# BACKLOG — 简历经历助手（experience-refinery）
 
 > 记录 v1.0 范围外的想法，供未来版本参考。
 > 有想法就加进来，不要塞进当前版本。
